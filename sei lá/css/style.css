@@ -1,0 +1,311 @@
+html {
+   scroll-behavior: smooth;
+
+}
+
+
+.BG {
+  font-size: 30px;
+  color: rgb(202, 200, 195);
+  padding: 70px;
+  background-size: cover;
+  background-position: center;
+  box-sizing: border-box;
+
+}
+
+
+
+body {
+
+  background-image: url('../img/lionel-messi-3840x2160-17209.jpg') !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: top center !important;
+  margin: 0 !important;
+}
+
+
+
+
+
+
+.menu {
+  position: fixed;
+  top: 600px;
+  padding: 20px 20px;
+  background-color: #040114;
+  background-size: cover;
+  box-sizing: border-box;
+  margin-top: -600px;
+  margin-left: 600;
+
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+
+}
+
+.menu li {
+  margin: 0;
+}
+
+.menu a {
+  display: block;
+  padding: 15px 20px;
+  color: rgb(219, 196, 196);
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.menu a:hover {
+  background-color: #4e1515;
+}
+
+.hex {
+  color: #092122;
+}
+
+
+
+.containerpai{
+  display: flex;
+  margin-top: -0px;
+  gap: 2px; 
+}
+.DT{
+width: 400px;
+height: 30px;
+font-size: 18px;
+align-items: center;
+font-weight: bold;
+color: #d1d4c5;
+margin-left: 10px;
+}
+.times{
+  background-image: url(../img/messi\ no\ barcelona.jpg); 
+  background-size: cover;
+  margin-top: -400px;
+}
+
+video {
+  width: 300px;
+  height: 400px;
+  bottom: 20px;
+  right: 20px;
+  margin-top: -100px;
+}
+.arg {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 20px;
+  left:1700px
+}
+.psg{
+  width:150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  left:1580px;
+}
+
+
+.miami{
+  width:210px;
+  height: 210px;
+  position: absolute;
+  top: 20px;
+  left:1390px;
+}
+
+.barça{
+  width:160px;
+  height: 160px;
+  position: absolute;
+  top: 50px;
+  left:1250px;
+}
+
+.f{ 
+  width: 500px;
+  height: 500px;
+  bottom: 20px;
+  right: 20px;
+  margin-top: -110px;
+  margin-left: 1330px
+}
+
+.amd{
+  font-size: 15px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 540px;
+  left:1490px
+}
+
+.fg{
+width: 500px;
+height: 30px;
+font-size: 18px;
+align-items: center;
+font-weight: bold;
+color: #d1d4c5;
+margin-left: 10px;
+margin-top:420px;
+}
+
+
+.dp {
+  background-image: url(../img/hadassah.webp);
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 100%;
+  height: 1000px;
+  object-fit: cover;
+  margin-top: -300px;
+}
+.barça-logo{
+    width: 600px;
+  height: 300px;
+  bottom: 20px;
+  right: 20px;
+  margin-top: -420px;
+  margin-left: 1230px
+}
+
+.r {
+ width: 400px;
+ height: 400px;
+bottom: 20px;
+right: 20px;
+ margin-top: -80px;
+margin-left:40px;
+
+}
+
+.barça-loo{
+ width: 400px;
+  height: 400px;
+  bottom: 20px;
+  right: 20px;
+  margin-top: 50px;
+  margin-left:010px ;}
+
+  .hjk {
+  background-image: url(../img/wp11424995.webp);
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 100%;
+  height: 1000px;
+  object-fit: cover;
+  margin-top: -22px;
+  }
+
+  .jk {
+width: 400px;
+height: 30px;
+font-size: 18px;
+align-items: center;
+font-weight: bold;
+color: #cccbcf;
+margin-left: 20px;
+margin-top:-30px;
+}
+
+.u {
+ width: 600px;
+ height: 600px;
+bottom: 20px;
+right: 20px;
+ margin-top: -50px;
+margin-left:1230px; 
+
+}
+
+.tt{
+    width: 900px;
+  height: 800px;
+  bottom: 20px; 
+  right: 20px;
+  margin-top: -385px;
+  margin-left: -130px;
+}
+
+.yy{
+  background-image: url(../img/Proyecto_nuevo_\(16\).png.webp);
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 100%;
+  height: 1000px;
+  object-fit: cover;
+  margin-top: -22px;
+}
+.gpt {
+  width: 600px;
+height: 30px;
+font-size: 18px;
+align-items: center;
+font-weight: bold;
+color: #c6c7c3;
+margin-left: 10px;
+margin-top:-30px;
+}
+
+.i{
+width: 600px;
+height: 600px;
+bottom: 20px;
+right: 20px;
+margin-top: 30px;
+margin-left:10px;
+}
+
+.ç{
+  width: 600px;
+ height: 600px;
+bottom: 20px;
+right: 20px;
+margin-top: -790px;
+margin-left:1280px; 
+}
+
+.xx{
+  background-image: url(../img/aesthetic-lionel-messi-in-barcelona-kit-desktop-wallpaper-preview.jpg);
+  background-size: cover;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  width: 100%;
+  height: 1000px;
+  object-fit: cover;
+  margin-top: -300px;
+}
+.ddp{
+  width: 500px;
+height: 30px;
+font-size: 18px;
+align-items: center;
+font-weight: bold;
+color: #e7e7e7;
+margin-left: 10px;
+margin-top:-30px;
+}
+
+.jp{
+width: 600px;
+height: 600px;
+bottom: 20px;
+right: 20px;
+margin-top: 80px;
+margin-left:10px; 
+}
+
